@@ -1,6 +1,4 @@
-[submodule "/js-portfolio/"] 
-  path = /js-portfolio/ 
-  url = https://github.com/Julianfam/javascript-webpack-netlify-integrarion.git
+
 [submodule "javascript-webpack-netlify-integrarion"]
 	path = javascript-webpack-netlify-integrarion
 	url = https://github.com/Julianfam/javascript-webpack-netlify-integrarion.git
